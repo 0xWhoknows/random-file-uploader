@@ -5,6 +5,5 @@ Mass Auto File Uploader build in python exe
 
 ### Sample screenshot
 
-![ScreenShot](/image.png)
 ![ScreenShot](https://raw.githubusercontent.com/0xWhoknows/random-file-uploader/main/git.png)
  
